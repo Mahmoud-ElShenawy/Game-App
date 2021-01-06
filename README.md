@@ -14,8 +14,8 @@ This is a Simple Tic Tac Game App
 # Screenshots 
 There are Some Screenshots to Show How My App Looks. Open Screenshots Folder To See More Pictures
 
-![](ScreenShots/1.png)
-![](ScreenShots/2.png)
-![](ScreenShots/3.png)
-![](ScreenShots/4.png)
-![](ScreenShots/5.png)
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+![](Screenshots/4.png)
+![](Screenshots/5.png)
