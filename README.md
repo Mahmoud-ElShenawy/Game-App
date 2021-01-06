@@ -9,7 +9,7 @@ This is a Simple Tic Tac Game App
 - Observable Array Map
 
 # Features
-- Two Player Game
+- Two PlayerS Game
 
 # Screenshots 
 There are Some Screenshots to Show How My App Looks. Open Screenshots Folder To See More Pictures
