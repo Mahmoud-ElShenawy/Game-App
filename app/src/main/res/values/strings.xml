@@ -1,0 +1,14 @@
+<!--Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)-->
+<resources>
+    <string name="app_name">GameApp</string>
+    <string name="ready_to_play">Ready to Play</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="the_winner_is">The Winner Is</string>
+    <string name="mahmoud">Mahmoud</string>
+    <string name="new_game">New Game</string>
+    <string name="done">Done</string>
+    <string name="rematch">Rematch</string>
+    <string name="empty_name_error">Name Mustn\'t Be Empty</string>
+    <string name="same_name_error">Name Mustn\'t Be The Same</string>
+</resources>
