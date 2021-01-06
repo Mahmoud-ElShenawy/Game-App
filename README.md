@@ -1,4 +1,4 @@
-# Movie Home
+# Game App
 
 This is a Simple Tic Tac Game App
 
